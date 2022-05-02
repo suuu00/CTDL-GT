@@ -1,0 +1,49 @@
+48
+MB001|May bay cho hang|40
+MB002|May bay cho khach|50
+MB003|May bay chuyen dung3|60
+MB004|May bay chuyen dung4|64
+MB005|May bay chuyen dung 5|65
+MB006|May bay chuyen dung 6|66
+MB007|May bay chuyen dung 7|67
+MB008|May bay chuyen dung 8|68
+MB009|May bay chuyen dung 9|69
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+MB010|May bay chuyen dung 10|70
+Sh1|One|11
+Sh2|Two|22
+Sh3|Three|22
+Sh4|Four|44
+Sh5|Three|11
+Sh6|Six|66
+Sh7|Seven|44
+Sh8|Eight|22
+Sh9|Nine|0
+Sh10|Ten|100
+Sh11|Eleven|1000

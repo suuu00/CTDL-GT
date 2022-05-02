@@ -1,0 +1,4 @@
+Danh sach hanh khach thuoc chuyen bay 201
+Ngay gio khoi hanh: 10/10/2021 10:0 BUONMETHUOT
+STT  So ve So CMND       Ho ten              Phai
+1     4     066300000303 Le Thi Thu Huong     Nu
